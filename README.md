@@ -1,3 +1,3 @@
 Welcome!
 email: eabhakenny17@gmail.com
-linkdin: eabhakenny
+linkedin: eabhakenny
