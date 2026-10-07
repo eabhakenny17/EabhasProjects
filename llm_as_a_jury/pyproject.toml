@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm-as-a-jury"
+version = "0.1.0"
+description = "An educational mock-jury CLI powered by an OpenAI-compatible LLM API."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "python-dotenv>=1.0",
+]
+
+[project.scripts]
+mock-jury = "llm_as_a_jury.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
