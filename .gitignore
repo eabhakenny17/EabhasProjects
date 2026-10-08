@@ -37,7 +37,6 @@ UserSettings/
 [Rr]eleases/
 x64/
 x86/
-*.exe
 *.dll
 *.so
 
@@ -234,7 +233,6 @@ bld/
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
