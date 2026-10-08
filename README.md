@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Graduating-Software%20Design%20Student-0A84FF?style=for-the-badge&logo=github" alt="Graduating Software Design Student" />
-  <img src="https://img.shields.io/badge/Focus-C%23%20%7C%20Java%20%7C%20Python%20%7C%20C%2B%2B-8A2BE2?style=for-the-badge" alt="Core languages" />
-  <img src="https://img.shields.io/badge/Portfolio-Next.js%20%2B%20React-111827?style=for-the-badge&logo=next.js" alt="Portfolio built with Next.js and React" />
-</p>
-
 <h1 align="center">Éabha Kenny</h1>
 
 <p align="center">
@@ -11,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eabhakenny17">GitHub</a> •
   <a href="https://www.linkedin.com/in/éabha-kenny-b1b1282a6/">LinkedIn</a> •
-  <a href="mailto:eabhakenny17@gmail.com">Email</a>
+  <a href="mailto:eabhakenny17@gmail.com">Email</a> •
+  <a>Portfolio Website</a>
 </p>
 
 ---
@@ -79,6 +73,3 @@ I am always open to career conversations, and opportunities in software developm
 
 ---
 
-<p align="center">
-  <strong>Built with passion for software, learning, and problem-solving.</strong>
-</p>
