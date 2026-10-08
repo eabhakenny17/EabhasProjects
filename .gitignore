@@ -1,0 +1,360 @@
+# ========== UNITY ==========
+# Editor directories and metadata
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Asset meta files
+*.meta
+
+# Unity Editor preferences
+ProjectSettings/
+UserSettings/
+*.unitypackage
+
+# VS Code and IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# Visual Studio cache/options
+.vs/
+*.sln
+*.csproj
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+*.exe
+*.dll
+*.so
+
+# Rider specific
+*.DotSettings.user
+
+# VR/AR specific folders (Unity XR)
+/XR/
+Assets/XR/
+Assets/VR/
+Assets/AR/
+
+# ========== PYTHON ==========
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.spyderproject
+.spyproject
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# ========== JAVA ==========
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (MTDT)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+target/
+.m2/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+.m2/repository/
+
+# Gradle
+.gradle/
+build/
+gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# ========== C# ==========
+# Byte compiled / optimized files
+*.dll
+*.pdb
+
+# Resharper
+.idea/
+*.sln.iml
+_ReSharper.*/
+*.sln.iml
+
+# Rider
+.idea/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Ww][Ii][Nn]32/
+[Ww][Ii][Nn]64/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# ========== C++ ==========
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeFiles/
+CMakeLists.txt.user
+CMakeCache.txt
+cmake_install.cmake
+
+# Ninja
+.ninja_log
+.ninja_deps
+
+# Make
+Makefile
+*.make
+
+# ========== JAVASCRIPT/TYPESCRIPT ==========
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+package-lock.json
+yarn.lock
+
+# Production
+/dist
+/build
+/.next
+/out
+
+# Misc
+*.pem
+
+# Debug
+npm-debug.log
+
+# TypeScript
+*.tsbuildinfo
+dist/
+
+# Nuxt
+.nuxt
+
+# Testing
+coverage/
+.nyc_output/
+
+# ESLint
+.eslintcache
+
+# Prettier
+.prettierignore
+
+# Environment variables
+.env.local
+.env.*.local
+
+# ========== GENERAL ==========
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Build artifacts
+dist/
+build/
+out/
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ========== LARGE FILES (if using Git LFS) ==========
+# Images
+*.psd
+*.ai
+*.tif
+*.exr
+*.tga
+
+# Audio
+*.wav
+*.ogg
+
+# Video
+*.mov
+
+# 3D Objects
+*.blend
+*.FBX
+*.fbx
+
+# Documents
+*.pdf
+
+# Executables & Libraries
+*.unitypackage
+*.aif
+*.ttf
+
+# Reason/Renoise
+*.rns
+*.reason
+*.lxo
