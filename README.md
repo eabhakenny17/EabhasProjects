@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/éabha-kenny-b1b1282a6/">LinkedIn</a> •
   <a href="mailto:eabhakenny17@gmail.com">Email</a> •
-  <a>Portfolio Website</a>
+  <a href="https://developer-portfolio-nr6az3v99-eabhakennydev.vercel.app">Portfolio Website</a>
 </p>
 
 ---
@@ -42,8 +42,7 @@ My work spans C#, Java, Python, C++, Unity, and modern developer workflows. I ha
 
 ## Portfolio
 
-This repository is a part of my personal portfolio website. Please view my portfolio website below:
-
+This repository is a part of my personal portfolio website. Please view my <a href="https://developer-portfolio-nr6az3v99-eabhakennydev.vercel.app">portfolio website</a>below:
 
 
 ## Project Focus
@@ -70,6 +69,6 @@ I am always open to career conversations, and opportunities in software developm
 
 - LinkedIn: https://www.linkedin.com/in/éabha-kenny-b1b1282a6/
 - Email: eabhakenny17@gmail.com
-
+- Portfolio: https://developer-portfolio-nr6az3v99-eabhakennydev.vercel.app
 ---
 
